@@ -45,7 +45,6 @@ Character Manager adalah aplikasi Java berbasis Object Oriented Programming (OOP
 
 Screenshot Output
 ![alt text](Screenshot 2026-10-22 181432.png)
-
 Hasil Program
 charactermanager-TP5/
 │
