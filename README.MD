@@ -47,7 +47,7 @@ Deskripsi
 Character Manager adalah aplikasi Java berbasis Object Oriented Programming (OOP) untuk mengelola data karakter game. Program ini mendukung penambahan karakter, pencarian berdasarkan nama dan tipe, penghapusan karakter, perhitungan rata-rata level, serta fitur analitik untuk mencari karakter dengan attack power tertinggi. Implementasi juga menerapkan konsep encapsulation, constructor, enum, collection ArrayList, dan validasi data.
 
 Screenshot Output
-![alt text](Screenshot 2026-10-22 181432.png)
+![alt text](tp5.png)
 
 
 
