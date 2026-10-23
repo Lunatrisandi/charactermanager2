@@ -149,10 +149,10 @@ Ketika pengguna menekan tombol Tambah Karakter, data baru akan dikirim dari Main
 Screenshoot hasil output
 
 Sebelum Data Diubah 
-[tp8-sebelum.png]
+![all text](tp8-sebelum.png)
 
 Sesudah Data Diubah
-[text](tp8sesudah.png)
+![all text](tp8sesudah.png)
 
 Nama Lengkap: [Luna Tri Sandi]
 NIM: [253303621240]
