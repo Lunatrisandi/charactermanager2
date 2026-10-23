@@ -152,7 +152,7 @@ Sebelum Data Diubah
 [text](tp8sebelum.png)
 
 Sesudah Data Diubah
-[text](model/Character.java)
+[text](tp8sesudah.png)
 
 Nama Lengkap: [Luna Tri Sandi]
 NIM: [253303621240]
