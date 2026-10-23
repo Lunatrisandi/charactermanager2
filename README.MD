@@ -149,7 +149,7 @@ Ketika pengguna menekan tombol Tambah Karakter, data baru akan dikirim dari Main
 Screenshoot hasil output
 
 Sebelum Data Diubah 
-[text](model/Character.java)
+[text](tp8sebelum.png)
 
 Sesudah Data Diubah
 [text](model/Character.java)
