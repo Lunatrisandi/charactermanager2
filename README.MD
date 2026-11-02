@@ -184,3 +184,30 @@ Membuat tampilan UI lebih modern.
 Nama Lengkap: [Luna Tri Sandi]
 NIM: [253303621240]
 Link Google Docs (Bagian D): https://1drv.ms/w/c/265fce39944988d2/IQB8IdWnJTqeQbSjww8M-Q31AfacLWJqzNn6UbH8lzP_se4?e=DasHP4
+
+__________________________________________________________________________________________________________________________
+TP10 - App Theme dan Kustomisasi
+Screenshot Sebelum
+(gambar before)
+
+Screenshot Sesudah
+(gambar after)
+
+Mengapa Warna Disimpan di AppTheme
+Warna disimpan pada AppTheme karena warna merupakan bagian dari tampilan aplikasi, bukan data karakter. Character hanya menyimpan data bisnis. Pemisahan ini membuat kode lebih mudah dirawat dan mengikuti prinsip Separation of Concerns. Perubahan tema dapat dilakukan tanpa mengubah kelas Character.
+
+Properti Tambahan
+buttonHoverColor
+
+Memberikan efek hover pada tombol.
+borderRadius
+
+Membuat tampilan UI lebih modern.
+
+Nama Lengkap: [Luna Tri Sandi]
+NIM: [253303621240]
+Link Google Docs (Bagian D):https://1drv.ms/w/c/265fce39944988d2/IQB8IdWnJTqeQbSjww8M-Q31AfacLWJqzNn6UbH8lzP_se4?e=xw0kIZ
+
+
+
+
