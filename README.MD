@@ -36,7 +36,7 @@ NIM : 253303621240
 Google Docs Bagian D : https://1drv.ms/w/c/265fce39944988d2/IQBSaEjTa1-HRouFOAIbQDK6Ab6l14r5AjI12270OtqmmGg?e=NbOzfn
 
 
-______________________________________________________________________________________________________________
+_______________________________________________________________________________________________
 
 Character Manager — TP5 (Java Visual SIH-6406)
 
@@ -44,7 +44,7 @@ Deskripsi
 Character Manager adalah aplikasi Java berbasis Object Oriented Programming (OOP) untuk mengelola data karakter game. Program ini mendukung penambahan karakter, pencarian berdasarkan nama dan tipe, penghapusan karakter, perhitungan rata-rata level, serta fitur analitik untuk mencari karakter dengan attack power tertinggi. Implementasi juga menerapkan konsep encapsulation, constructor, enum, collection ArrayList, dan validasi data.
 
 Screenshot Output
-![alt text](tp5.png)
+![alt text](<../../../../Screenshot/TP5/Screenshot 2026-10-22 181432.png>)
 
 Hasil Program
 charactermanager-TP5/
@@ -75,7 +75,7 @@ Link Google Docs (Bagian D):https://1drv.ms/w/c/265fce39944988d2/IQBhCxH4lz9DSb6
 
 
 
-________________________________________________________________________________________________________
+______________________________________________________________________________________________
 
 Character Manager — TP8 (Java Visual SIH-6406)
 
@@ -149,11 +149,38 @@ Ketika pengguna menekan tombol Tambah Karakter, data baru akan dikirim dari Main
 Screenshoot hasil output
 
 Sebelum Data Diubah 
-![all text](tp8-sebelum.png)
+[text](model/Character.java)
 
 Sesudah Data Diubah
-![all text](tp8sesudah.png)
+[text](model/Character.java)
 
 Nama Lengkap: [Luna Tri Sandi]
 NIM: [253303621240]
 Link Google Docs (Bagian D):https://1drv.ms/w/c/265fce39944988d2/IQC1HpyTXEGJSZtj5abKaZnNAaQMmCg2ibE5ieK2FtdOLvI?e=GvE5Tp
+
+
+____________________________________________________________________________________________
+
+TP10 - App Theme dan Kustomisasi
+
+
+Screenshot Sebelum
+(![alt text](../../../../Screenshot/tp10-sebelum.png))
+
+Screenshot Sesudah
+(![alt text](../../../../Screenshot/tp10-sesudah.png))
+
+Mengapa Warna Disimpan di AppTheme
+Warna disimpan pada AppTheme karena warna merupakan bagian dari tampilan aplikasi, bukan data karakter. Character hanya menyimpan data bisnis. Pemisahan ini membuat kode lebih mudah dirawat dan mengikuti prinsip Separation of Concerns. Perubahan tema dapat dilakukan tanpa mengubah kelas Character.
+
+Properti Tambahan
+buttonHoverColor
+
+Memberikan efek hover pada tombol.
+borderRadius
+
+Membuat tampilan UI lebih modern.
+
+Nama Lengkap: [Luna Tri Sandi]
+NIM: [253303621240]
+Link Google Docs (Bagian D): https://1drv.ms/w/c/265fce39944988d2/IQB8IdWnJTqeQbSjww8M-Q31AfacLWJqzNn6UbH8lzP_se4?e=DasHP4
