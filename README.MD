@@ -187,8 +187,9 @@ Link Google Docs (Bagian D): https://1drv.ms/w/c/265fce39944988d2/IQB8IdWnJTqeQb
 
 __________________________________________________________________________________________________________________________
 TP10 - App Theme dan Kustomisasi
+
 Screenshot Sebelum
-(gambar before)
+(tp8sebelum.png)
 
 Screenshot Sesudah
 (gambar after)
